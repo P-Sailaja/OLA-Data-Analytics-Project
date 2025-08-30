@@ -20,12 +20,12 @@ Using SQL for querying and Power BI for visualization, the project delivers a co
 
 ## Data Fields
 
-Booking Details – Date, Time, Booking ID, Status, Customer ID, Vehicle Type
-Locations – Pickup & Drop points
-Ride Metrics – VTAT, CTAT, Ride Distance
-Financials – Booking Value, Payment Method
-Cancellations – By Driver, By Customer with reasons
-Ratings – Driver Ratings, Customer Ratings
+- Booking Details – Date, Time, Booking ID, Status, Customer ID, Vehicle Type
+- Locations – Pickup & Drop points
+- Ride Metrics – VTAT, CTAT, Ride Distance
+- Financials – Booking Value, Payment Method
+- Cancellations – By Driver, By Customer with reasons
+- Ratings – Driver Ratings, Customer Ratings
 
 ## Tools & Technologies
 
